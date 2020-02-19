@@ -1,6 +1,15 @@
+import ch.hesge.cours634.counter.CounterException;
+import ch.hesge.cours634.counter.UpperLimitedPositiveCounter;
+
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        try {
+            UpperLimitedPositiveCounter c = new UpperLimitedPositiveCounter(1,2);
+            c.add(5);
+        }catch (CounterException e){
+            System.out.println(e);
+        }
+
     }
 }
