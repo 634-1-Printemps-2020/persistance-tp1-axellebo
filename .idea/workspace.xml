@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb2659b5-5328-4d41-855a-aede7651ad6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ch.hesge.cours634.counter/CounterException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revision/ch/hesge/cours634/counter/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Revision/ch/hesge/cours634/counter/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Revision/ch/hesge/cours634/counter/UpperLimitedPositiveCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Revision/ch/hesge/cours634/counter/UpperLimitedPositiveCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/Revision/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/Revision/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ch.hesge.cours634.counter/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch.hesge.cours634.counter/Counter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ch.hesge.cours634.counter/UpperLimitedPositiveCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch.hesge.cours634.counter/UpperLimitedPositiveCounter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ch/hesge/cours634/counter/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ch/hesge/cours634/counter/Main.java" afterDir="false" />
@@ -41,11 +41,11 @@
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="ch.hesge.cours634.counter" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/java/ch/hesge/cours634/counter" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/ch/hesge/cours634/counter" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -91,6 +91,7 @@
       <workItem from="1582088644937" duration="194000" />
       <workItem from="1582089474125" duration="35000" />
       <workItem from="1582113130538" duration="1119000" />
+      <workItem from="1582219868946" duration="837000" />
     </task>
     <servers />
   </component>
@@ -102,7 +103,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
